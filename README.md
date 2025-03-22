@@ -32,12 +32,6 @@ This project contains Jupyter Notebooks designed for learning fundamental data s
 
 3.  **Jupyter Notebook:**
 
-    *   Start the Jupyter Notebook server:
-
-        ```bash
-        jupyter notebook
-        ```
-
     *   Navigate to the `notebooks/` directory in your browser and open the desired notebook.
 
 ## Project Details
