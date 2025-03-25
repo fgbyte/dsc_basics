@@ -1,8 +1,8 @@
-name: data_basics
+name: dsc
 channels:
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
 dependencies:
   - python=3.11
   - poetry
-prefix: /home/fgbyte/miniconda3/envs/data_basics
+prefix: /home/fgbyte/miniconda3/envs/dsc
