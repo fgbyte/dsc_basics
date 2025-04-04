@@ -21,7 +21,7 @@ This project contains Jupyter Notebooks designed for learning fundamental data s
 
         ```bash
         conda env create -f environment.yml
-        conda activate data_basics
+        conda activate dsc
         ```
 
     *   Install project dependencies using Poetry:
