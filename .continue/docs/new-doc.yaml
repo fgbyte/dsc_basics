@@ -1,0 +1,6 @@
+name: New doc
+version: 2.2
+schema: v1
+docs:
+  - name: Pandas Docs
+    startUrl: https://pandas.pydata.org/docs/
